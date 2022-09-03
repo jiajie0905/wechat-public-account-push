@@ -42,16 +42,16 @@ export const config = {
       openUrl: "https://music.163.com/"
     }, 
     {
-      name: "老婆2",
-      id: "ohxOO6VskYv30Kuf-ywIZV3RMpuXhk",
-      useTemplateId: "zjVglIuCXo4CsraXW3Eio1iP7sZJ7IQEES9lDsgc4yOU",
+      name: "杰哥",
+      id: "of0BF6AMGZgWDKq68n6PguJycAsM",
+      useTemplateId: "D3l2XrHwbRxA2wIjPEcBBT5kIHbwQxa-DoXe2XhxVl4",
       openUrl: "https://weibo.com"
     }, 
     {
-      name: "老婆3", 
-      id: "ohxOO63VskYv0Kuf-ywIZV3RMpuXhk", 
-      useTemplateId: "Wue80GrtY1nA3ia4tam-FDxZF9WNx9pw3cBc0LMpANnu8",
-      openUrl: "https://wangxinleo.cn"
+      name: "杰哥", 
+      id: "of0BF6AMGZgWDKq68n6PguJycAsM", 
+      useTemplateId: "D3l2XrHwbRxA2wIjPEcBBT5kIHbwQxa-DoXe2XhxVl4",
+      openUrl: "https://www.jd.com"
     }, 
   ],
 
